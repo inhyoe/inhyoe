@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=inhyoe's%intro&fontSize=90)
 
-
+<div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
