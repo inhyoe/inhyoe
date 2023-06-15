@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nest.js&logoColor=white">
+  <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=Nest.js&logoColor=white">
   <img src="https://img.shields.io/badge/nest.js-#7F52FF?style=for-the-badge&logo=#7F52FF&logoColor=white">
   <img src="https://img.shields.io/badge/php-#777BB4?style=for-the-badge&logo=#777BB4&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-#FF2D20?style=for-the-badge&logo=#FF2D20&logoColor=white">
