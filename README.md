@@ -30,3 +30,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Koltin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
 </div>
+
+
+<div align = center>
+  こんにちは、新卒バックエンド、android開発者のユ・チャンフンです!
+</div>
