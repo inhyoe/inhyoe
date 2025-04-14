@@ -1,5 +1,14 @@
+
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="greeting">
+</p>
+
+## こんにちは！私はユ・チャンフンです
+<p align="center">
+  新卒バックエンド・Android開発者。高品質なソフトウェアを構築することに情熱を持っています!
+</p>
 <!--
 **inhyoe/inhyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
