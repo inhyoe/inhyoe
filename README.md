@@ -10,7 +10,7 @@
   新卒バックエンド・Android開発者。高品質なソフトウェアを構築することに情熱を持っています!
 </p>
 <!--
-**inhyoe/inhyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inhyoe/inhyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 Here are some ideas to get you started:
 
